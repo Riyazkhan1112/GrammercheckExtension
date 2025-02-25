@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Grammar Fixer",
+    "version": "1.0",
+    "description": "Corrects grammar for given sentences.",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["storage"]
+  }
+  
